@@ -10,12 +10,9 @@
     "prestart": "tsc"
   },
   "devDependencies": {
-    "@types/node": "^14.14.37",
     "tsc-watch": "^4.2.9"
   },
   "dependencies": {
-    "crypto": "^1.0.1",
-    "crypto-js": "^4.0.0",
-    "tsc": "^1.20150623.0"
+    "crypto-js": "^4.0.0"
   }
 }
